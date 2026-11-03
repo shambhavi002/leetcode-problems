@@ -10,6 +10,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shambhavi002/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shambhavi002/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
