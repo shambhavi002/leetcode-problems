@@ -15,6 +15,7 @@
 | [0027-remove-element](https://github.com/shambhavi002/leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shambhavi002/leetcode-problems/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/shambhavi002/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/shambhavi002/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0063-unique-paths-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0063-unique-paths-ii) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shambhavi002/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/shambhavi002/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 ## Algorithm X
 |  |
