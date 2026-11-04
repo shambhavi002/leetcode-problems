@@ -14,6 +14,7 @@
 | [0018-4sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/shambhavi002/leetcode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shambhavi002/leetcode-problems/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/shambhavi002/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 | [0001-two-sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shambhavi002/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shambhavi002/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/shambhavi002/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shambhavi002/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shambhavi002/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
