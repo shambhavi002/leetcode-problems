@@ -10,6 +10,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shambhavi002/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shambhavi002/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0018-4sum) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shambhavi002/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0018-4sum) |
 ## Sorting
 |  |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shambhavi002/leetcode-problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
