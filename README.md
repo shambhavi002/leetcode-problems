@@ -12,6 +12,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shambhavi002/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shambhavi002/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/shambhavi002/leetcode-problems/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shambhavi002/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/shambhavi002/leetcode-problems/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
