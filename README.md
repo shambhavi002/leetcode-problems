@@ -58,6 +58,7 @@
 | [0031-next-permutation](https://github.com/shambhavi002/leetcode-problems/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/shambhavi002/leetcode-problems/tree/master/0086-partition-list) |
 ## Sorting
 |  |
 | ------- |
@@ -121,4 +122,5 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/shambhavi002/leetcode-problems/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
