@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/shambhavi002/leetcode-problems/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shambhavi002/leetcode-problems/tree/master/0100-same-tree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shambhavi002/leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
