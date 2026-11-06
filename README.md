@@ -20,6 +20,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shambhavi002/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shambhavi002/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shambhavi002/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
