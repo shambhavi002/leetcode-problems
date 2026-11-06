@@ -22,6 +22,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shambhavi002/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shambhavi002/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/shambhavi002/leetcode-problems/tree/master/0164-maximum-gap) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0018-4sum) |
+| [0164-maximum-gap](https://github.com/shambhavi002/leetcode-problems/tree/master/0164-maximum-gap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,4 +159,16 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shambhavi002/leetcode-problems/tree/master/0155-min-stack) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shambhavi002/leetcode-problems/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shambhavi002/leetcode-problems/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shambhavi002/leetcode-problems/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
