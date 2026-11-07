@@ -96,6 +96,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shambhavi002/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shambhavi002/leetcode-problems/tree/master/0037-sudoku-solver) |
+| [0113-path-sum-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0113-path-sum-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -137,11 +138,13 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shambhavi002/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shambhavi002/leetcode-problems/tree/master/0100-same-tree) |
+| [0113-path-sum-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shambhavi002/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shambhavi002/leetcode-problems/tree/master/0100-same-tree) |
+| [0113-path-sum-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -151,6 +154,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shambhavi002/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shambhavi002/leetcode-problems/tree/master/0100-same-tree) |
+| [0113-path-sum-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
