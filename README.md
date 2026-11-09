@@ -21,6 +21,7 @@
 | [0064-minimum-path-sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shambhavi002/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shambhavi002/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shambhavi002/leetcode-problems/tree/master/0162-find-peak-element) |
@@ -105,6 +106,7 @@
 | [0037-sudoku-solver](https://github.com/shambhavi002/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shambhavi002/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0113-path-sum-ii) |
 ## String Matching
 |  |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shambhavi002/leetcode-problems/tree/master/0164-maximum-gap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
