@@ -39,6 +39,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shambhavi002/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/shambhavi002/leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shambhavi002/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shambhavi002/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/shambhavi002/leetcode-problems/tree/master/0072-edit-distance) |
@@ -76,6 +77,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0064-minimum-path-sum) |
@@ -89,6 +91,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
@@ -98,6 +101,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shambhavi002/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/shambhavi002/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shambhavi002/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0047-permutations-ii) |
