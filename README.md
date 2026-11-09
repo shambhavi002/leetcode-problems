@@ -44,6 +44,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shambhavi002/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/shambhavi002/leetcode-problems/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/shambhavi002/leetcode-problems/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shambhavi002/leetcode-problems/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/shambhavi002/leetcode-problems/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
