@@ -23,6 +23,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shambhavi002/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/shambhavi002/leetcode-problems/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shambhavi002/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/shambhavi002/leetcode-problems/tree/master/0164-maximum-gap) |
@@ -34,6 +35,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shambhavi002/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shambhavi002/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shambhavi002/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/shambhavi002/leetcode-problems/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
@@ -46,6 +48,7 @@
 | [0032-longest-valid-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/shambhavi002/leetcode-problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/shambhavi002/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/shambhavi002/leetcode-problems/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 | [0064-minimum-path-sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/shambhavi002/leetcode-problems/tree/master/0072-edit-distance) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shambhavi002/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/shambhavi002/leetcode-problems/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -204,4 +208,16 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shambhavi002/leetcode-problems/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shambhavi002/leetcode-problems/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shambhavi002/leetcode-problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
