@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shambhavi002/leetcode-problems/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/shambhavi002/leetcode-problems/tree/master/0204-count-primes) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0164-maximum-gap](https://github.com/shambhavi002/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shambhavi002/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/shambhavi002/leetcode-problems/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/shambhavi002/leetcode-problems/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,4 +241,24 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/shambhavi002/leetcode-problems/tree/master/0143-reorder-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shambhavi002/leetcode-problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shambhavi002/leetcode-problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shambhavi002/leetcode-problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shambhavi002/leetcode-problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shambhavi002/leetcode-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
