@@ -29,6 +29,7 @@
 | [0162-find-peak-element](https://github.com/shambhavi002/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/shambhavi002/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shambhavi002/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/shambhavi002/leetcode-problems/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0072-edit-distance](https://github.com/shambhavi002/leetcode-problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/shambhavi002/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/shambhavi002/leetcode-problems/tree/master/0139-word-break) |
+| [0179-largest-number](https://github.com/shambhavi002/leetcode-problems/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0018-4sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/shambhavi002/leetcode-problems/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/shambhavi002/leetcode-problems/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shambhavi002/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/shambhavi002/leetcode-problems/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
