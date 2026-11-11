@@ -28,6 +28,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shambhavi002/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/shambhavi002/leetcode-problems/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shambhavi002/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shambhavi002/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shambhavi002/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shambhavi002/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0125-valid-palindrome](https://github.com/shambhavi002/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shambhavi002/leetcode-problems/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shambhavi002/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
