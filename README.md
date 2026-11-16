@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shambhavi002/leetcode-problems/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/shambhavi002/leetcode-problems/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/shambhavi002/leetcode-problems/tree/master/0204-count-primes) |
 ## Array
 |  |
@@ -20,6 +21,7 @@
 | [0047-permutations-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/shambhavi002/leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shambhavi002/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0090-subsets-ii) |
