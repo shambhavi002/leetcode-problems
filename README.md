@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shambhavi002/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/shambhavi002/leetcode-problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shambhavi002/leetcode-problems/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/shambhavi002/leetcode-problems/tree/master/0204-count-primes) |
 ## Array
 |  |
@@ -56,6 +57,7 @@
 | [0022-generate-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shambhavi002/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shambhavi002/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/shambhavi002/leetcode-problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/shambhavi002/leetcode-problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/shambhavi002/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/shambhavi002/leetcode-problems/tree/master/0139-word-break) |
@@ -228,6 +230,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shambhavi002/leetcode-problems/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0090-subsets-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -273,4 +276,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shambhavi002/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shambhavi002/leetcode-problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
