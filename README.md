@@ -29,6 +29,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shambhavi002/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shambhavi002/leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/shambhavi002/leetcode-problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/shambhavi002/leetcode-problems/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shambhavi002/leetcode-problems/tree/master/0162-find-peak-element) |
@@ -236,6 +237,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/shambhavi002/leetcode-problems/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/shambhavi002/leetcode-problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/shambhavi002/leetcode-problems/tree/master/0136-single-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
